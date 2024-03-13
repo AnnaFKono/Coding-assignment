@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: url('images/background purple.png');
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+  margin-left: 350px;
+  font-size: 20px;
+}
+mark {
+  background-color: #E6D4FD;
+}
